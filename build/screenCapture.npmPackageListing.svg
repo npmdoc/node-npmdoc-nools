@@ -1,168 +1,168 @@
 <svg height="2638" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2638" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-07 08:04:20 +0000  2438067 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-07 08:04:20 +0000     3936 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="58">  2.  2017-04-07 08:04:20 +0000     1080 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-07 08:04:20 +0000      481 bytes  Makefile</tspan>
-<tspan x="10" y="90">  4.  2017-04-07 08:04:20 +0000      516 bytes  benchmark/manners/benchmark.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-07 08:04:20 +0000     1546 bytes  benchmark/manners/data/index.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-07 08:04:20 +0000    16764 bytes  benchmark/manners/data/manners128.dat</tspan>
-<tspan x="10" y="138">  7.  2017-04-07 08:04:20 +0000     1507 bytes  benchmark/manners/data/manners16.dat</tspan>
-<tspan x="10" y="154">  8.  2017-04-07 08:04:20 +0000     3138 bytes  benchmark/manners/data/manners32.dat</tspan>
-<tspan x="10" y="170">  9.  2017-04-07 08:04:20 +0000      405 bytes  benchmark/manners/data/manners5.dat</tspan>
-<tspan x="10" y="186"> 10.  2017-04-07 08:04:20 +0000     6368 bytes  benchmark/manners/data/manners64.dat</tspan>
-<tspan x="10" y="202"> 11.  2017-04-07 08:04:20 +0000      767 bytes  benchmark/manners/data/manners8.dat</tspan>
-<tspan x="10" y="218"> 12.  2017-04-07 08:04:20 +0000     5377 bytes  benchmark/manners/manners.nools</tspan>
-<tspan x="10" y="234"> 13.  2017-04-07 08:04:20 +0000      355 bytes  benchmark/sendMoreMoney/benchmark.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-07 08:04:20 +0000      831 bytes  benchmark/sendMoreMoney/sendMoreMoney.nools</tspan>
-<tspan x="10" y="266"> 15.  2017-04-07 08:04:20 +0000      898 bytes  benchmark/simple/benchmark.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-07 08:04:20 +0000      593 bytes  benchmark/waltzDb/benchmark.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-07 08:04:20 +0000     1587 bytes  benchmark/waltzDb/data/index.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-07 08:04:20 +0000    34887 bytes  benchmark/waltzDb/data/waltzdb12.dat</tspan>
-<tspan x="10" y="330"> 19.  2017-04-07 08:04:20 +0000    45831 bytes  benchmark/waltzDb/data/waltzdb16.dat</tspan>
-<tspan x="10" y="346"> 20.  2017-04-07 08:04:20 +0000    13503 bytes  benchmark/waltzDb/data/waltzdb4.dat</tspan>
-<tspan x="10" y="362"> 21.  2017-04-07 08:04:20 +0000    23943 bytes  benchmark/waltzDb/data/waltzdb8.dat</tspan>
-<tspan x="10" y="378"> 22.  2017-04-07 08:04:20 +0000    40468 bytes  benchmark/waltzDb/waltzDb.nools</tspan>
-<tspan x="10" y="394"> 23.  2017-04-07 08:04:20 +0000      504 bytes  bin/assets/compile_wrapper.tmpl</tspan>
-<tspan x="10" y="410"> 24.  2017-04-07 08:04:20 +0000     1857 bytes  bin/nools</tspan>
-<tspan x="10" y="426"> 25.  2017-04-07 08:04:20 +0000      674 bytes  browser/nools.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-07 08:04:20 +0000      418 bytes  docs-md/examples.md</tspan>
-<tspan x="10" y="458"> 27.  2017-04-07 08:04:20 +0000    22111 bytes  docs/assets/css/bootstrap-responsive.css</tspan>
-<tspan x="10" y="474"> 28.  2017-04-07 08:04:20 +0000    16849 bytes  docs/assets/css/bootstrap-responsive.min.css</tspan>
-<tspan x="10" y="490"> 29.  2017-04-07 08:04:20 +0000   127247 bytes  docs/assets/css/bootstrap.css</tspan>
-<tspan x="10" y="506"> 30.  2017-04-07 08:04:20 +0000   105939 bytes  docs/assets/css/bootstrap.min.css</tspan>
-<tspan x="10" y="522"> 31.  2017-04-07 08:04:20 +0000      591 bytes  docs/assets/css/prettify.css</tspan>
-<tspan x="10" y="538"> 32.  2017-04-07 08:04:20 +0000     8777 bytes  docs/assets/img/glyphicons-halflings-white.png</tspan>
-<tspan x="10" y="554"> 33.  2017-04-07 08:04:20 +0000    12799 bytes  docs/assets/img/glyphicons-halflings.png</tspan>
-<tspan x="10" y="570"> 34.  2017-04-07 08:04:20 +0000    61508 bytes  docs/assets/js/bootstrap.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-07 08:04:20 +0000    28418 bytes  docs/assets/js/bootstrap.min.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-07 08:04:20 +0000    94847 bytes  docs/assets/js/jquery.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-07 08:04:20 +0000    13632 bytes  docs/assets/js/prettify.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-07 08:04:20 +0000     6902 bytes  docs/examples.html</tspan>
-<tspan x="10" y="650"> 39.  2017-04-07 08:04:20 +0000    18767 bytes  docs/history.html</tspan>
-<tspan x="10" y="666"> 40.  2017-04-07 08:04:20 +0000    70683 bytes  docs/index.html</tspan>
-<tspan x="10" y="682"> 41.  2017-04-07 08:04:20 +0000   222874 bytes  docs/nools.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-07 08:04:20 +0000     9493 bytes  history.md</tspan>
-<tspan x="10" y="714"> 43.  2017-04-07 08:04:20 +0000       44 bytes  index.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-07 08:04:20 +0000     6067 bytes  lib/agenda.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-07 08:04:20 +0000     2532 bytes  lib/compile/common.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-07 08:04:20 +0000     6722 bytes  lib/compile/index.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-07 08:04:20 +0000     6947 bytes  lib/compile/transpile.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-07 08:04:20 +0000     1383 bytes  lib/conflict.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-07 08:04:20 +0000     7190 bytes  lib/constraint.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-07 08:04:20 +0000    14579 bytes  lib/constraintMatcher.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-07 08:04:20 +0000     3711 bytes  lib/context.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-07 08:04:20 +0000     3137 bytes  lib/executionStrategy.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-07 08:04:20 +0000     3509 bytes  lib/extended.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-07 08:04:20 +0000     3667 bytes  lib/flow.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-07 08:04:20 +0000     3022 bytes  lib/flowContainer.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-07 08:04:20 +0000     1841 bytes  lib/index.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-07 08:04:20 +0000     2025 bytes  lib/linkedList.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-07 08:04:20 +0000     1092 bytes  lib/nextTick.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-07 08:04:20 +0000     1121 bytes  lib/nodes/adapterNode.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-07 08:04:20 +0000      878 bytes  lib/nodes/aliasNode.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-07 08:04:20 +0000      489 bytes  lib/nodes/alphaNode.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-07 08:04:20 +0000     9185 bytes  lib/nodes/betaNode.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-07 08:04:20 +0000     1283 bytes  lib/nodes/equalityNode.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-07 08:04:20 +0000     3443 bytes  lib/nodes/existsFromNode.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-07 08:04:20 +0000     7282 bytes  lib/nodes/existsNode.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-07 08:04:20 +0000     8006 bytes  lib/nodes/fromNode.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-07 08:04:20 +0000     5755 bytes  lib/nodes/fromNotNode.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-07 08:04:20 +0000     9777 bytes  lib/nodes/index.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-07 08:04:20 +0000     2241 bytes  lib/nodes/joinNode.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-07 08:04:20 +0000     3328 bytes  lib/nodes/joinReferenceNode.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-07 08:04:20 +0000      840 bytes  lib/nodes/leftAdapterNode.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-07 08:04:20 +0000     4603 bytes  lib/nodes/misc/helpers.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-07 08:04:20 +0000      184 bytes  lib/nodes/misc/leftMemory.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-07 08:04:20 +0000     4037 bytes  lib/nodes/misc/memory.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-07 08:04:20 +0000      185 bytes  lib/nodes/misc/rightMemory.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-07 08:04:20 +0000     4591 bytes  lib/nodes/misc/table.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-07 08:04:20 +0000     1212 bytes  lib/nodes/misc/tupleEntry.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-07 08:04:20 +0000     3765 bytes  lib/nodes/node.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-07 08:04:20 +0000    10924 bytes  lib/nodes/notNode.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-07 08:04:20 +0000     1491 bytes  lib/nodes/propertyNode.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-07 08:04:20 +0000      844 bytes  lib/nodes/rightAdapterNode.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-07 08:04:20 +0000     1865 bytes  lib/nodes/terminalNode.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-07 08:04:20 +0000     1268 bytes  lib/nodes/typeNode.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-07 08:04:20 +0000     7355 bytes  lib/parser/constraint/grammar.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-07 08:04:20 +0000    32212 bytes  lib/parser/constraint/parser.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-07 08:04:20 +0000      493 bytes  lib/parser/index.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-07 08:04:20 +0000     1276 bytes  lib/parser/nools/nool.parser.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-07 08:04:20 +0000    14283 bytes  lib/parser/nools/tokens.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-07 08:04:20 +0000     2462 bytes  lib/parser/nools/util.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-07 08:04:20 +0000     4482 bytes  lib/pattern.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-07 08:04:20 +0000     9788 bytes  lib/rule.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-07 08:04:20 +0000     3150 bytes  lib/workingMemory.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-07 08:04:20 +0000   582205 bytes  nools.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-07 08:04:20 +0000   222874 bytes  nools.min.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-07 08:04:20 +0000     3275 bytes  package.json</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-07 08:04:20 +0000    48307 bytes  readme.md</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-07 08:04:20 +0000      227 bytes  test/browserling.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-07 08:04:20 +0000    47395 bytes  test/constraintMatcher.test.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-07 08:04:20 +0000    16124 bytes  test/flow.compiled.test.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-07 08:04:20 +0000    20593 bytes  test/flow.dsl.test.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-07 08:04:20 +0000       38 bytes  test/flow.test.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-07 08:04:20 +0000     5446 bytes  test/flow/agendaGroups.test.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-07 08:04:20 +0000     1176 bytes  test/flow/async.test.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-07 08:04:20 +0000      933 bytes  test/flow/custom.test.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-07 08:04:20 +0000     2051 bytes  test/flow/events.test.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-07 08:04:20 +0000    10712 bytes  test/flow/exists.test.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-07 08:04:20 +0000     1537 bytes  test/flow/facts.test.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-07 08:04:20 +0000    21723 bytes  test/flow/from.test.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-07 08:04:20 +0000      384 bytes  test/flow/index.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-07 08:04:20 +0000     6263 bytes  test/flow/leftMemory.test.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-07 08:04:20 +0000      854 bytes  test/flow/match.halt.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-07 08:04:20 +0000     1707 bytes  test/flow/matchUntil.halt.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-07 08:04:20 +0000     6718 bytes  test/flow/not.test.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-07 08:04:20 +0000     6502 bytes  test/flow/or.test.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-07 08:04:20 +0000     6268 bytes  test/flow/rightMemory.test.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-07 08:04:20 +0000     1520 bytes  test/flow/rule.test.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-07 08:04:20 +0000     2051 bytes  test/flow/salience.test.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-07 08:04:20 +0000     1412 bytes  test/flow/scope.test.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-07 08:04:20 +0000      712 bytes  test/flow/simple.test.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-07 08:04:20 +0000    10859 bytes  test/issues.test.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-07 08:04:20 +0000     2254 bytes  test/nools.test.js</tspan>
-<tspan x="10" y="1978">122.  2017-04-07 08:04:20 +0000    43362 bytes  test/noolsParser.test.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-07 08:04:20 +0000    32941 bytes  test/parser.test.js</tspan>
-<tspan x="10" y="2010">124.  2017-04-07 08:04:20 +0000    33734 bytes  test/rules.test.js</tspan>
-<tspan x="10" y="2026">125.  2017-04-07 08:04:20 +0000     1470 bytes  test/rules/agenda-group-compiled.js</tspan>
-<tspan x="10" y="2042">126.  2017-04-07 08:04:20 +0000      708 bytes  test/rules/agenda-group.nools</tspan>
-<tspan x="10" y="2058">127.  2017-04-07 08:04:20 +0000     1950 bytes  test/rules/auto-focus-compiled.js</tspan>
-<tspan x="10" y="2074">128.  2017-04-07 08:04:20 +0000     1158 bytes  test/rules/auto-focus.nools</tspan>
-<tspan x="10" y="2090">129.  2017-04-07 08:04:20 +0000     1253 bytes  test/rules/comments-compiled.js</tspan>
-<tspan x="10" y="2106">130.  2017-04-07 08:04:20 +0000      699 bytes  test/rules/comments.nools</tspan>
-<tspan x="10" y="2122">131.  2017-04-07 08:04:20 +0000     1282 bytes  test/rules/defined-compiled.js</tspan>
-<tspan x="10" y="2138">132.  2017-04-07 08:04:20 +0000      419 bytes  test/rules/defined.nools</tspan>
-<tspan x="10" y="2154">133.  2017-04-07 08:04:20 +0000     3180 bytes  test/rules/diagnosis-compiled.js</tspan>
-<tspan x="10" y="2170">134.  2017-04-07 08:04:20 +0000     2069 bytes  test/rules/diagnosis.nools</tspan>
-<tspan x="10" y="2186">135.  2017-04-07 08:04:20 +0000      982 bytes  test/rules/existsRule-compiled.js</tspan>
-<tspan x="10" y="2202">136.  2017-04-07 08:04:20 +0000      213 bytes  test/rules/existsRule.nools</tspan>
-<tspan x="10" y="2218">137.  2017-04-07 08:04:20 +0000     2056 bytes  test/rules/fibonacci-compiled.js</tspan>
-<tspan x="10" y="2234">138.  2017-04-07 08:04:20 +0000     1132 bytes  test/rules/fibonacci.nools</tspan>
-<tspan x="10" y="2250">139.  2017-04-07 08:04:20 +0000     1509 bytes  test/rules/getFacts-compiled.js</tspan>
-<tspan x="10" y="2266">140.  2017-04-07 08:04:20 +0000      729 bytes  test/rules/getFacts.nools</tspan>
-<tspan x="10" y="2282">141.  2017-04-07 08:04:20 +0000     1248 bytes  test/rules/global-compiled.js</tspan>
-<tspan x="10" y="2298">142.  2017-04-07 08:04:20 +0000       40 bytes  test/rules/global.js</tspan>
-<tspan x="10" y="2314">143.  2017-04-07 08:04:20 +0000      529 bytes  test/rules/global.nools</tspan>
-<tspan x="10" y="2330">144.  2017-04-07 08:04:20 +0000     1196 bytes  test/rules/import-compiled.js</tspan>
-<tspan x="10" y="2346">145.  2017-04-07 08:04:20 +0000       67 bytes  test/rules/import.nools</tspan>
-<tspan x="10" y="2362">146.  2017-04-07 08:04:20 +0000       75 bytes  test/rules/import/import1.nools</tspan>
-<tspan x="10" y="2378">147.  2017-04-07 08:04:20 +0000      241 bytes  test/rules/import/import2.nools</tspan>
-<tspan x="10" y="2394">148.  2017-04-07 08:04:20 +0000      162 bytes  test/rules/import/import3.nools</tspan>
-<tspan x="10" y="2410">149.  2017-04-07 08:04:20 +0000      976 bytes  test/rules/notRule-compiled.js</tspan>
-<tspan x="10" y="2426">150.  2017-04-07 08:04:20 +0000      210 bytes  test/rules/notRule.nools</tspan>
-<tspan x="10" y="2442">151.  2017-04-07 08:04:20 +0000     1054 bytes  test/rules/orRule-compiled.js</tspan>
-<tspan x="10" y="2458">152.  2017-04-07 08:04:20 +0000     1073 bytes  test/rules/orRule-notConditions-compiled.js</tspan>
-<tspan x="10" y="2474">153.  2017-04-07 08:04:20 +0000      333 bytes  test/rules/orRule-notConditions.nools</tspan>
-<tspan x="10" y="2490">154.  2017-04-07 08:04:20 +0000      288 bytes  test/rules/orRule.nools</tspan>
-<tspan x="10" y="2506">155.  2017-04-07 08:04:20 +0000     1205 bytes  test/rules/provided-scope-compiled.js</tspan>
-<tspan x="10" y="2522">156.  2017-04-07 08:04:20 +0000      422 bytes  test/rules/provided-scope.nools</tspan>
-<tspan x="10" y="2538">157.  2017-04-07 08:04:20 +0000     1250 bytes  test/rules/scope-compiled.js</tspan>
-<tspan x="10" y="2554">158.  2017-04-07 08:04:20 +0000      474 bytes  test/rules/scope.nools</tspan>
-<tspan x="10" y="2570">159.  2017-04-07 08:04:20 +0000     1245 bytes  test/rules/simple-compiled.js</tspan>
-<tspan x="10" y="2586">160.  2017-04-07 08:04:20 +0000     1033 bytes  test/rules/simple-external-defined-compiled.js</tspan>
-<tspan x="10" y="2602">161.  2017-04-07 08:04:20 +0000      317 bytes  test/rules/simple-external-defined.nools</tspan>
-<tspan x="10" y="2618">162.  2017-04-07 08:04:20 +0000      426 bytes  test/rules/simple.nools</tspan>
+<tspan x="10" y="26">  0.  2017-04-07 08:06:00 +0000  2438067 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-07 08:06:00 +0000     3936 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-07 08:06:00 +0000     1080 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-07 08:06:00 +0000      481 bytes  Makefile</tspan>
+<tspan x="10" y="90">  4.  2017-04-07 08:06:00 +0000      516 bytes  benchmark/manners/benchmark.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-07 08:06:00 +0000     1546 bytes  benchmark/manners/data/index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-07 08:06:00 +0000    16764 bytes  benchmark/manners/data/manners128.dat</tspan>
+<tspan x="10" y="138">  7.  2017-04-07 08:06:00 +0000     1507 bytes  benchmark/manners/data/manners16.dat</tspan>
+<tspan x="10" y="154">  8.  2017-04-07 08:06:00 +0000     3138 bytes  benchmark/manners/data/manners32.dat</tspan>
+<tspan x="10" y="170">  9.  2017-04-07 08:06:00 +0000      405 bytes  benchmark/manners/data/manners5.dat</tspan>
+<tspan x="10" y="186"> 10.  2017-04-07 08:06:00 +0000     6368 bytes  benchmark/manners/data/manners64.dat</tspan>
+<tspan x="10" y="202"> 11.  2017-04-07 08:06:00 +0000      767 bytes  benchmark/manners/data/manners8.dat</tspan>
+<tspan x="10" y="218"> 12.  2017-04-07 08:06:00 +0000     5377 bytes  benchmark/manners/manners.nools</tspan>
+<tspan x="10" y="234"> 13.  2017-04-07 08:06:00 +0000      355 bytes  benchmark/sendMoreMoney/benchmark.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-07 08:06:00 +0000      831 bytes  benchmark/sendMoreMoney/sendMoreMoney.nools</tspan>
+<tspan x="10" y="266"> 15.  2017-04-07 08:06:00 +0000      898 bytes  benchmark/simple/benchmark.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-07 08:06:00 +0000      593 bytes  benchmark/waltzDb/benchmark.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-07 08:06:00 +0000     1587 bytes  benchmark/waltzDb/data/index.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-07 08:06:00 +0000    34887 bytes  benchmark/waltzDb/data/waltzdb12.dat</tspan>
+<tspan x="10" y="330"> 19.  2017-04-07 08:06:00 +0000    45831 bytes  benchmark/waltzDb/data/waltzdb16.dat</tspan>
+<tspan x="10" y="346"> 20.  2017-04-07 08:06:00 +0000    13503 bytes  benchmark/waltzDb/data/waltzdb4.dat</tspan>
+<tspan x="10" y="362"> 21.  2017-04-07 08:06:00 +0000    23943 bytes  benchmark/waltzDb/data/waltzdb8.dat</tspan>
+<tspan x="10" y="378"> 22.  2017-04-07 08:06:00 +0000    40468 bytes  benchmark/waltzDb/waltzDb.nools</tspan>
+<tspan x="10" y="394"> 23.  2017-04-07 08:06:00 +0000      504 bytes  bin/assets/compile_wrapper.tmpl</tspan>
+<tspan x="10" y="410"> 24.  2017-04-07 08:06:00 +0000     1857 bytes  bin/nools</tspan>
+<tspan x="10" y="426"> 25.  2017-04-07 08:06:00 +0000      674 bytes  browser/nools.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-07 08:06:00 +0000      418 bytes  docs-md/examples.md</tspan>
+<tspan x="10" y="458"> 27.  2017-04-07 08:06:00 +0000    22111 bytes  docs/assets/css/bootstrap-responsive.css</tspan>
+<tspan x="10" y="474"> 28.  2017-04-07 08:06:00 +0000    16849 bytes  docs/assets/css/bootstrap-responsive.min.css</tspan>
+<tspan x="10" y="490"> 29.  2017-04-07 08:06:00 +0000   127247 bytes  docs/assets/css/bootstrap.css</tspan>
+<tspan x="10" y="506"> 30.  2017-04-07 08:06:00 +0000   105939 bytes  docs/assets/css/bootstrap.min.css</tspan>
+<tspan x="10" y="522"> 31.  2017-04-07 08:06:00 +0000      591 bytes  docs/assets/css/prettify.css</tspan>
+<tspan x="10" y="538"> 32.  2017-04-07 08:06:00 +0000     8777 bytes  docs/assets/img/glyphicons-halflings-white.png</tspan>
+<tspan x="10" y="554"> 33.  2017-04-07 08:06:00 +0000    12799 bytes  docs/assets/img/glyphicons-halflings.png</tspan>
+<tspan x="10" y="570"> 34.  2017-04-07 08:06:00 +0000    61508 bytes  docs/assets/js/bootstrap.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-07 08:06:00 +0000    28418 bytes  docs/assets/js/bootstrap.min.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-07 08:06:00 +0000    94847 bytes  docs/assets/js/jquery.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-07 08:06:00 +0000    13632 bytes  docs/assets/js/prettify.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-07 08:06:00 +0000     6902 bytes  docs/examples.html</tspan>
+<tspan x="10" y="650"> 39.  2017-04-07 08:06:00 +0000    18767 bytes  docs/history.html</tspan>
+<tspan x="10" y="666"> 40.  2017-04-07 08:06:00 +0000    70683 bytes  docs/index.html</tspan>
+<tspan x="10" y="682"> 41.  2017-04-07 08:06:00 +0000   222874 bytes  docs/nools.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-07 08:06:00 +0000     9493 bytes  history.md</tspan>
+<tspan x="10" y="714"> 43.  2017-04-07 08:06:00 +0000       44 bytes  index.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-07 08:06:00 +0000     6067 bytes  lib/agenda.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-07 08:06:00 +0000     2532 bytes  lib/compile/common.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-07 08:06:00 +0000     6722 bytes  lib/compile/index.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-07 08:06:00 +0000     6947 bytes  lib/compile/transpile.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-07 08:06:00 +0000     1383 bytes  lib/conflict.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-07 08:06:00 +0000     7190 bytes  lib/constraint.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-07 08:06:00 +0000    14579 bytes  lib/constraintMatcher.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-07 08:06:00 +0000     3711 bytes  lib/context.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-07 08:06:00 +0000     3137 bytes  lib/executionStrategy.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-07 08:06:00 +0000     3509 bytes  lib/extended.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-07 08:06:00 +0000     3667 bytes  lib/flow.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-07 08:06:00 +0000     3022 bytes  lib/flowContainer.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-07 08:06:00 +0000     1841 bytes  lib/index.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-07 08:06:00 +0000     2025 bytes  lib/linkedList.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-07 08:06:00 +0000     1092 bytes  lib/nextTick.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-07 08:06:00 +0000     1121 bytes  lib/nodes/adapterNode.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-07 08:06:00 +0000      878 bytes  lib/nodes/aliasNode.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-07 08:06:00 +0000      489 bytes  lib/nodes/alphaNode.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-07 08:06:00 +0000     9185 bytes  lib/nodes/betaNode.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-07 08:06:00 +0000     1283 bytes  lib/nodes/equalityNode.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-07 08:06:00 +0000     3443 bytes  lib/nodes/existsFromNode.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-07 08:06:00 +0000     7282 bytes  lib/nodes/existsNode.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-07 08:06:00 +0000     8006 bytes  lib/nodes/fromNode.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-07 08:06:00 +0000     5755 bytes  lib/nodes/fromNotNode.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-07 08:06:00 +0000     9777 bytes  lib/nodes/index.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-07 08:06:00 +0000     2241 bytes  lib/nodes/joinNode.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-07 08:06:00 +0000     3328 bytes  lib/nodes/joinReferenceNode.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-07 08:06:00 +0000      840 bytes  lib/nodes/leftAdapterNode.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-07 08:06:00 +0000     4603 bytes  lib/nodes/misc/helpers.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-07 08:06:00 +0000      184 bytes  lib/nodes/misc/leftMemory.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-07 08:06:00 +0000     4037 bytes  lib/nodes/misc/memory.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-07 08:06:00 +0000      185 bytes  lib/nodes/misc/rightMemory.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-07 08:06:00 +0000     4591 bytes  lib/nodes/misc/table.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-07 08:06:00 +0000     1212 bytes  lib/nodes/misc/tupleEntry.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-07 08:06:00 +0000     3765 bytes  lib/nodes/node.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-07 08:06:00 +0000    10924 bytes  lib/nodes/notNode.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-07 08:06:00 +0000     1491 bytes  lib/nodes/propertyNode.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-07 08:06:00 +0000      844 bytes  lib/nodes/rightAdapterNode.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-07 08:06:00 +0000     1865 bytes  lib/nodes/terminalNode.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-07 08:06:00 +0000     1268 bytes  lib/nodes/typeNode.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-07 08:06:00 +0000     7355 bytes  lib/parser/constraint/grammar.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-07 08:06:00 +0000    32212 bytes  lib/parser/constraint/parser.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-07 08:06:00 +0000      493 bytes  lib/parser/index.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-07 08:06:00 +0000     1276 bytes  lib/parser/nools/nool.parser.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-07 08:06:00 +0000    14283 bytes  lib/parser/nools/tokens.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-07 08:06:00 +0000     2462 bytes  lib/parser/nools/util.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-07 08:06:00 +0000     4482 bytes  lib/pattern.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-07 08:06:00 +0000     9788 bytes  lib/rule.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-07 08:06:00 +0000     3150 bytes  lib/workingMemory.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-07 08:06:00 +0000   582205 bytes  nools.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-07 08:06:00 +0000   222874 bytes  nools.min.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-07 08:06:00 +0000     3275 bytes  package.json</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-07 08:06:00 +0000    48307 bytes  readme.md</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-07 08:06:00 +0000      227 bytes  test/browserling.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-07 08:06:00 +0000    47395 bytes  test/constraintMatcher.test.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-07 08:06:00 +0000    16124 bytes  test/flow.compiled.test.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-07 08:06:00 +0000    20593 bytes  test/flow.dsl.test.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-07 08:06:00 +0000       38 bytes  test/flow.test.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-07 08:06:00 +0000     5446 bytes  test/flow/agendaGroups.test.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-07 08:06:00 +0000     1176 bytes  test/flow/async.test.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-07 08:06:00 +0000      933 bytes  test/flow/custom.test.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-07 08:06:00 +0000     2051 bytes  test/flow/events.test.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-07 08:06:00 +0000    10712 bytes  test/flow/exists.test.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-07 08:06:00 +0000     1537 bytes  test/flow/facts.test.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-07 08:06:00 +0000    21723 bytes  test/flow/from.test.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-07 08:06:00 +0000      384 bytes  test/flow/index.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-07 08:06:00 +0000     6263 bytes  test/flow/leftMemory.test.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-07 08:06:00 +0000      854 bytes  test/flow/match.halt.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-07 08:06:00 +0000     1707 bytes  test/flow/matchUntil.halt.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-07 08:06:00 +0000     6718 bytes  test/flow/not.test.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-07 08:06:00 +0000     6502 bytes  test/flow/or.test.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-07 08:06:00 +0000     6268 bytes  test/flow/rightMemory.test.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-07 08:06:00 +0000     1520 bytes  test/flow/rule.test.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-07 08:06:00 +0000     2051 bytes  test/flow/salience.test.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-07 08:06:00 +0000     1412 bytes  test/flow/scope.test.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-07 08:06:00 +0000      712 bytes  test/flow/simple.test.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-07 08:06:00 +0000    10859 bytes  test/issues.test.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-07 08:06:00 +0000     2254 bytes  test/nools.test.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-07 08:06:00 +0000    43362 bytes  test/noolsParser.test.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-07 08:06:00 +0000    32941 bytes  test/parser.test.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-07 08:06:00 +0000    33734 bytes  test/rules.test.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-07 08:06:00 +0000     1470 bytes  test/rules/agenda-group-compiled.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-07 08:06:00 +0000      708 bytes  test/rules/agenda-group.nools</tspan>
+<tspan x="10" y="2058">127.  2017-04-07 08:06:00 +0000     1950 bytes  test/rules/auto-focus-compiled.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-07 08:06:00 +0000     1158 bytes  test/rules/auto-focus.nools</tspan>
+<tspan x="10" y="2090">129.  2017-04-07 08:06:00 +0000     1253 bytes  test/rules/comments-compiled.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-07 08:06:00 +0000      699 bytes  test/rules/comments.nools</tspan>
+<tspan x="10" y="2122">131.  2017-04-07 08:06:00 +0000     1282 bytes  test/rules/defined-compiled.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-07 08:06:00 +0000      419 bytes  test/rules/defined.nools</tspan>
+<tspan x="10" y="2154">133.  2017-04-07 08:06:00 +0000     3180 bytes  test/rules/diagnosis-compiled.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-07 08:06:00 +0000     2069 bytes  test/rules/diagnosis.nools</tspan>
+<tspan x="10" y="2186">135.  2017-04-07 08:06:00 +0000      982 bytes  test/rules/existsRule-compiled.js</tspan>
+<tspan x="10" y="2202">136.  2017-04-07 08:06:00 +0000      213 bytes  test/rules/existsRule.nools</tspan>
+<tspan x="10" y="2218">137.  2017-04-07 08:06:00 +0000     2056 bytes  test/rules/fibonacci-compiled.js</tspan>
+<tspan x="10" y="2234">138.  2017-04-07 08:06:00 +0000     1132 bytes  test/rules/fibonacci.nools</tspan>
+<tspan x="10" y="2250">139.  2017-04-07 08:06:00 +0000     1509 bytes  test/rules/getFacts-compiled.js</tspan>
+<tspan x="10" y="2266">140.  2017-04-07 08:06:00 +0000      729 bytes  test/rules/getFacts.nools</tspan>
+<tspan x="10" y="2282">141.  2017-04-07 08:06:00 +0000     1248 bytes  test/rules/global-compiled.js</tspan>
+<tspan x="10" y="2298">142.  2017-04-07 08:06:00 +0000       40 bytes  test/rules/global.js</tspan>
+<tspan x="10" y="2314">143.  2017-04-07 08:06:00 +0000      529 bytes  test/rules/global.nools</tspan>
+<tspan x="10" y="2330">144.  2017-04-07 08:06:00 +0000     1196 bytes  test/rules/import-compiled.js</tspan>
+<tspan x="10" y="2346">145.  2017-04-07 08:06:00 +0000       67 bytes  test/rules/import.nools</tspan>
+<tspan x="10" y="2362">146.  2017-04-07 08:06:00 +0000       75 bytes  test/rules/import/import1.nools</tspan>
+<tspan x="10" y="2378">147.  2017-04-07 08:06:00 +0000      241 bytes  test/rules/import/import2.nools</tspan>
+<tspan x="10" y="2394">148.  2017-04-07 08:06:00 +0000      162 bytes  test/rules/import/import3.nools</tspan>
+<tspan x="10" y="2410">149.  2017-04-07 08:06:00 +0000      976 bytes  test/rules/notRule-compiled.js</tspan>
+<tspan x="10" y="2426">150.  2017-04-07 08:06:00 +0000      210 bytes  test/rules/notRule.nools</tspan>
+<tspan x="10" y="2442">151.  2017-04-07 08:06:00 +0000     1054 bytes  test/rules/orRule-compiled.js</tspan>
+<tspan x="10" y="2458">152.  2017-04-07 08:06:00 +0000     1073 bytes  test/rules/orRule-notConditions-compiled.js</tspan>
+<tspan x="10" y="2474">153.  2017-04-07 08:06:00 +0000      333 bytes  test/rules/orRule-notConditions.nools</tspan>
+<tspan x="10" y="2490">154.  2017-04-07 08:06:00 +0000      288 bytes  test/rules/orRule.nools</tspan>
+<tspan x="10" y="2506">155.  2017-04-07 08:06:00 +0000     1205 bytes  test/rules/provided-scope-compiled.js</tspan>
+<tspan x="10" y="2522">156.  2017-04-07 08:06:00 +0000      422 bytes  test/rules/provided-scope.nools</tspan>
+<tspan x="10" y="2538">157.  2017-04-07 08:06:00 +0000     1250 bytes  test/rules/scope-compiled.js</tspan>
+<tspan x="10" y="2554">158.  2017-04-07 08:06:00 +0000      474 bytes  test/rules/scope.nools</tspan>
+<tspan x="10" y="2570">159.  2017-04-07 08:06:00 +0000     1245 bytes  test/rules/simple-compiled.js</tspan>
+<tspan x="10" y="2586">160.  2017-04-07 08:06:00 +0000     1033 bytes  test/rules/simple-external-defined-compiled.js</tspan>
+<tspan x="10" y="2602">161.  2017-04-07 08:06:00 +0000      317 bytes  test/rules/simple-external-defined.nools</tspan>
+<tspan x="10" y="2618">162.  2017-04-07 08:06:00 +0000      426 bytes  test/rules/simple.nools</tspan>
 </text>
 </svg>
