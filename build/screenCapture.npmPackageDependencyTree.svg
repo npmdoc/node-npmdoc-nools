@@ -1,32 +1,34 @@
-<svg height="462" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="462" fill="#555" width="720"></rect>
+<svg height="494" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="494" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">7 megabytes</tspan>
-<tspan x="10" y="42">└─┬ nools@0.4.4 </tspan>
-<tspan x="10" y="58">  ├── arguments-extended@0.0.3 </tspan>
-<tspan x="10" y="74">  ├── array-extended@0.0.11 </tspan>
-<tspan x="10" y="90">  ├─┬ commander@1.1.1 </tspan>
-<tspan x="10" y="106">  │ └── keypress@0.1.0 </tspan>
-<tspan x="10" y="122">  ├── date-extended@0.0.6 </tspan>
-<tspan x="10" y="138">  ├── declare.js@0.0.8 </tspan>
-<tspan x="10" y="154">  ├─┬ extended@0.0.6 </tspan>
-<tspan x="10" y="170">  │ └── extender@0.0.10 </tspan>
-<tspan x="10" y="186">  ├── function-extended@0.0.9 </tspan>
-<tspan x="10" y="202">  ├── ht@0.0.2 </tspan>
-<tspan x="10" y="218">  ├── is-extended@0.0.10 </tspan>
-<tspan x="10" y="234">  ├── leafy@0.0.3 </tspan>
-<tspan x="10" y="250">  ├── object-extended@0.0.7 </tspan>
-<tspan x="10" y="266">  ├── promise-extended@0.0.9 </tspan>
-<tspan x="10" y="282">  ├── string-extended@0.0.8 </tspan>
-<tspan x="10" y="298">  └─┬ uglify-js@2.4.24 </tspan>
-<tspan x="10" y="314">    ├── async@0.2.10 </tspan>
-<tspan x="10" y="330">    ├─┬ source-map@0.1.34 </tspan>
-<tspan x="10" y="346">    │ └── amdefine@1.0.1 </tspan>
-<tspan x="10" y="362">    ├── uglify-to-browserify@1.0.2 </tspan>
-<tspan x="10" y="378">    └─┬ yargs@3.5.4 </tspan>
-<tspan x="10" y="394">      ├── camelcase@1.2.1 </tspan>
-<tspan x="10" y="410">      ├── decamelize@1.2.0 </tspan>
-<tspan x="10" y="426">      ├── window-size@0.1.0 </tspan>
-<tspan x="10" y="442">      └── wordwrap@0.0.2</tspan>
+<tspan x="10" y="26">7 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ nools@0.4.4 </tspan>
+<tspan x="10" y="90">  ├── arguments-extended@0.0.3 </tspan>
+<tspan x="10" y="106">  ├── array-extended@0.0.11 </tspan>
+<tspan x="10" y="122">  ├─┬ commander@1.1.1 </tspan>
+<tspan x="10" y="138">  │ └── keypress@0.1.0 </tspan>
+<tspan x="10" y="154">  ├── date-extended@0.0.6 </tspan>
+<tspan x="10" y="170">  ├── declare.js@0.0.8 </tspan>
+<tspan x="10" y="186">  ├─┬ extended@0.0.6 </tspan>
+<tspan x="10" y="202">  │ └── extender@0.0.10 </tspan>
+<tspan x="10" y="218">  ├── function-extended@0.0.9 </tspan>
+<tspan x="10" y="234">  ├── ht@0.0.2 </tspan>
+<tspan x="10" y="250">  ├── is-extended@0.0.10 </tspan>
+<tspan x="10" y="266">  ├── leafy@0.0.3 </tspan>
+<tspan x="10" y="282">  ├── object-extended@0.0.7 </tspan>
+<tspan x="10" y="298">  ├── promise-extended@0.0.9 </tspan>
+<tspan x="10" y="314">  ├── string-extended@0.0.8 </tspan>
+<tspan x="10" y="330">  └─┬ uglify-js@2.4.24 </tspan>
+<tspan x="10" y="346">    ├── async@0.2.10 </tspan>
+<tspan x="10" y="362">    ├─┬ source-map@0.1.34 </tspan>
+<tspan x="10" y="378">    │ └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="394">    ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="410">    └─┬ yargs@3.5.4 </tspan>
+<tspan x="10" y="426">      ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="442">      ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="458">      ├── window-size@0.1.0 </tspan>
+<tspan x="10" y="474">      └── wordwrap@0.0.2</tspan>
 </text>
 </svg>
